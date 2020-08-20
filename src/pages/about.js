@@ -1,13 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
 
-
-const Home = () => (
+const About = () => (
   <div>
     <p>
-      Check out my <Link to="/about">about</Link>!
+      Check out my <Link to="/">home</Link>!
     </p>
   </div>
 )
 
-export default Home
+export default About
