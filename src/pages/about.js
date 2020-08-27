@@ -5,6 +5,7 @@ const About = () => (
   <div>
     <p>
       Check out my <Link to="/">home</Link>!
+      
     </p>
   </div>
 )
